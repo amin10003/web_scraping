@@ -13,7 +13,7 @@ def get_quote():
         motivation = qoute.span.text
         auther = qoute.small.text
 
-        print(f"Motivation: {motivation}\n Auther: {auther}")
+        print(f"Motivation: {motivation}\nAuther: {auther}")
 
 
 get_quote()
